@@ -1,6 +1,8 @@
 # 🍔 FreshBite – Food Ordering Website
 
-FreshBite is a modern and responsive food ordering website developed using HTML5, CSS3, and JavaScript. This project is being built as part of a Web Development Internship to provide a realistic online food ordering experience.
+# 🍔 FreshBite - Food Ordering Website
+
+FreshBite is a responsive multi-page food ordering website developed using HTML5, CSS3, and JavaScript. It allows users to explore restaurants, browse menus, add food items to the cart, manage their account, and proceed to checkout. This project was created as part of a Web Development Internship to demonstrate front-end web development skills.
 
 ## ✨ Features
 
@@ -8,11 +10,10 @@ FreshBite is a modern and responsive food ordering website developed using HTML5
 - 🍽️ Restaurant Listing
 - 📋 Food Menu
 - 🛒 Add to Cart
-- ➕ Quantity Adjustment
-- 💰 Price Calculation
-- 📦 Order Summary
+- 👤 Login & Account Page
 - 💳 Checkout Page
-- 👤 User Login/Register
+- 📞 Contact Page
+- ℹ️ About Page
 - 📱 Fully Responsive Design
 
 ## 🛠️ Technologies Used
@@ -21,9 +22,9 @@ FreshBite is a modern and responsive food ordering website developed using HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Status
+## 📌 Project Status
 
-🚧 Under Development
+✅ Completed
 
 ## 👩‍💻 Developer
 
