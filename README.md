@@ -27,5 +27,9 @@ FreshBite is a responsive multi-page food ordering website developed using HTML5
 ✅ Completed
 
 ## 👩‍💻 Developer
+## 📸 Project Preview
+
+![FreshBite Home Page](images/homepage.png)
+
 
 **Shagun Verma**
